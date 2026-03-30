@@ -1,5 +1,5 @@
 # actividad6
-# 🃏 Simulador de Juego de Cartas: Eliminación Circular
+# Simulador de Juego de Cartas: Eliminación Circular
 
 Este proyecto implementa un simulador de juego de turnos continuos utilizando una **Lista Enlazada Circular Simple**. Los jugadores compiten en una ronda donde acumulan puntos aleatoriamente hasta que son eliminados, quedando un único ganador.
 
@@ -20,3 +20,4 @@ Este proyecto implementa un simulador de juego de turnos continuos utilizando un
 * `NodoCircular.java`: Contenedor que permite la conexión entre jugadores.
 * `ListaCircular.java`: Clase principal con la lógica de la estructura de datos.
 * `Main.java`: Controlador de la simulación y el flujo del juego.
+https://drive.google.com/file/d/1B9VvcE6v1bvfjeJkuKNfbCad1MoYqKmg/view?usp=sharing
